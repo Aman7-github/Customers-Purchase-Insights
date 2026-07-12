@@ -15,7 +15,7 @@ records across 25 product categories and 50 locations.
 ### Page 1 — Sales Performance
 - Current Purchases grew 135.74% over previous period
 - Total Revenue: $233.08K vs Previous $98.7K
-- Clothing is top category with $70.63K in sales
+- Clothing is top category  in sales
 - Peak sales in November and December
 
 ### Page 2 — Customer Review Analytics
